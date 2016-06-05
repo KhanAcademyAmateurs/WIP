@@ -1,0 +1,10 @@
+beginShape();
+  vertex(313, 237);
+  vertex(312, 244);
+  vertex(334, 285);
+  vertex(326, 307);
+  vertex(332, 368);
+  vertex(340, 335);
+  bezierVertex(345, 330, 370, 370, 370, 370);
+  bezierVertex(380, 360, 330, 237, 313, 237);
+endShape();
